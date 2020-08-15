@@ -1,0 +1,8 @@
+c:\users\пользователь\documents\visual studio 2015\Projects\MBKS_II\MBKS_II\bin\Release\MBKS_II.exe.config
+c:\users\пользователь\documents\visual studio 2015\Projects\MBKS_II\MBKS_II\obj\Release\MBKS_II.Form1.resources
+c:\users\пользователь\documents\visual studio 2015\Projects\MBKS_II\MBKS_II\obj\Release\MBKS_II.Properties.Resources.resources
+c:\users\пользователь\documents\visual studio 2015\Projects\MBKS_II\MBKS_II\obj\Release\MBKS_II.csproj.GenerateResource.Cache
+c:\users\пользователь\documents\visual studio 2015\Projects\MBKS_II\MBKS_II\bin\Release\MBKS_II.exe
+c:\users\пользователь\documents\visual studio 2015\Projects\MBKS_II\MBKS_II\bin\Release\MBKS_II.pdb
+c:\users\пользователь\documents\visual studio 2015\Projects\MBKS_II\MBKS_II\obj\Release\MBKS_II.exe
+c:\users\пользователь\documents\visual studio 2015\Projects\MBKS_II\MBKS_II\obj\Release\MBKS_II.pdb

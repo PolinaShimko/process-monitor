@@ -1,0 +1,10 @@
+﻿  IntegrityLevel.cpp
+c:\users\пользователь\documents\visual studio 2015\projects\integritylevel\integritylevel\integritylevel.h(14): error C3646: GetFileIntegrityLevel: неизвестный спецификатор переопределения
+c:\users\пользователь\documents\visual studio 2015\projects\integritylevel\integritylevel\integritylevel.h(14): error C2065: LPCWSTR: необъявленный идентификатор
+c:\users\пользователь\documents\visual studio 2015\projects\integritylevel\integritylevel\integritylevel.h(14): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "FileName"
+c:\users\пользователь\documents\visual studio 2015\projects\integritylevel\integritylevel\integritylevel.h(14): error C2238: непредвиденные лексемы перед ";"
+c:\users\пользователь\documents\visual studio 2015\projects\integritylevel\integritylevel\integritylevel.h(15): error C2061: синтаксическая ошибка: идентификатор "LPCWSTR"
+c:\users\пользователь\documents\visual studio 2015\projects\integritylevel\integritylevel\integritylevel.cpp(16): error C2039: GetFileIntegrityLevel: не является членом "IntegrityLevels"
+  c:\users\пользователь\documents\visual studio 2015\projects\integritylevel\integritylevel\integritylevel.cpp(14): note:  см. объявление "IntegrityLevels"
+c:\users\пользователь\documents\visual studio 2015\projects\integritylevel\integritylevel\integritylevel.cpp(59): error C2039: SetFileIntegrityLevel: не является членом "IntegrityLevels"
+  c:\users\пользователь\documents\visual studio 2015\projects\integritylevel\integritylevel\integritylevel.cpp(14): note:  см. объявление "IntegrityLevels"

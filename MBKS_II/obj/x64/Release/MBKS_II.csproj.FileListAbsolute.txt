@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\MBKS_II\MBKS_II\bin\x64\Release\MBKS_II.exe.config
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\MBKS_II\MBKS_II\bin\x64\Release\MBKS_II.exe
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\MBKS_II\MBKS_II\bin\x64\Release\MBKS_II.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\MBKS_II\MBKS_II\bin\x64\Release\ProcessPrivileges.dll
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\MBKS_II\MBKS_II\obj\x64\Release\MBKS_II.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\MBKS_II\MBKS_II\obj\x64\Release\MBKS_II.MBKSII.resources
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\MBKS_II\MBKS_II\obj\x64\Release\MBKS_II.Change_params.resources
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\MBKS_II\MBKS_II\obj\x64\Release\MBKS_II.Properties.Resources.resources
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\MBKS_II\MBKS_II\obj\x64\Release\MBKS_II.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\MBKS_II\MBKS_II\obj\x64\Release\MBKS_II.exe
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\MBKS_II\MBKS_II\obj\x64\Release\MBKS_II.pdb
+D:\Учеба\III курс\МБКС - 5 семестр +\MBKS_II\MBKS_II\bin\x64\Release\MBKS_II.exe.config
+D:\Учеба\III курс\МБКС - 5 семестр +\MBKS_II\MBKS_II\obj\x64\Release\MBKS_II.exe
+D:\Учеба\III курс\МБКС - 5 семестр +\MBKS_II\MBKS_II\obj\x64\Release\MBKS_II.pdb
